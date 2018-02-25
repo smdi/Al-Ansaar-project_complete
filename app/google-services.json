@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "553847050941",
+    "firebase_url": "https://al-ansar.firebaseio.com",
+    "project_id": "al-ansar",
+    "storage_bucket": "al-ansar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553847050941:android:ecd9d85fab8d1f68",
+        "android_client_info": {
+          "package_name": "al_muntaqimcrescent2018.com.al_ansar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553847050941-3e6lqauttiu5iunhgjbhsc8bf0go3uca.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "al_muntaqimcrescent2018.com.al_ansar",
+            "certificate_hash": "8b104025ada9728f2734b5fa1161e923a30afb3a"
+          }
+        },
+        {
+          "client_id": "553847050941-ofrq05h1u6t3dmr8c4jsjn7fbsto8kdm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlghsqPc8zUtgrNwSXIYZB1WzK1t-endE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553847050941-ofrq05h1u6t3dmr8c4jsjn7fbsto8kdm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
